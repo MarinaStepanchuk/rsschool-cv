@@ -4,7 +4,7 @@
 
 ## My Contact Info:
 
-* Address: Perelomskaja st. Grodno, Belarus
+* Address: Grodno, Belarus
 * Phone: +375 29 8273210
 * E-mail: mari20002@mail.ru
 * (GitHub:) [https://github.com/MarinaStepanchuk] 
@@ -21,20 +21,36 @@ I am 34 years old, I worked as an engineer for 12 years. Now I am taking several
 
 - HTML
 - CSS
+- Bootstrap
+- SCSS
 - BEM
-- Preprocessor SCSS
-- Framework Bootstrap
 - JavaScript 
-- Windows OS
-- Figma (for web development)
+- GitHub
+- Figma
 
 --------------------------------------------------
 
 ## Education
 
 * Brest State Technical University
-    *engineer
+    * engineer
+* RS SCHOOL
+    * JS/FE-Pre-School 
 
+---------------------------------------------------
+
+## Code
+
+'''
+article {
+    display: flex;
+    flex-direction: column;
+    background-image: url(../media/ball.png);
+    background-position: right top;
+    background-repeat: repeat-y;
+    background-size: 10%;
+  }
+'''
 ---------------------------------------------------
 
 ## Languages
