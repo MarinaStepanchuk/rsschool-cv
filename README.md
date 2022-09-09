@@ -1,1 +1,1 @@
-# rsschool-cv
+https://marinastepanchuk.github.io/rsschool-cv/cv
