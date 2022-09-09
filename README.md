@@ -1,1 +1,1 @@
-https://marinastepanchuk.github.io/rsschool-cv/cv
+https://marinastepanchuk.github.io/rsschool-cv/
